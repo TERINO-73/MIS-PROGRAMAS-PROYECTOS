@@ -1,0 +1,3 @@
+T;nrp;nombre;fechaIngreso;fechaNacimiento;telefono;especialidad;puesto;conDestino
+I;nrp;nombre;fechaIngreso;fechaNacimiento;telefono;especialidad;puesto;sustituto
+L;nrp;nombre;fechaIngreso;fechaNacimiento;telefono;categoria;turno
